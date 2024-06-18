@@ -1,5 +1,2 @@
 #!/bin/bash
- find . -type f -name rm 10-no_more_js
-cat > 10-no_more_js
-#!/bin/bash
 find . -type f -name '*-js' -delete
